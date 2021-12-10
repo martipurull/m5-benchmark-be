@@ -23,7 +23,7 @@ reviewsRouter.post('/', reviewsValidation, async (req, res, next) => {
                 movies[movieToEditIndex].reviews.push(newReview)
             }
             await saveMovies(movies)
-            res.status(201).send(`Review added successfully for ${ movies[movieToEditIndex].title }. `)
+            res.status(201).send(`Review with id ${ newReview.reviewId } added successfully for ${ movies[movieToEditIndex].title }. `)
         }
     } catch (error) {
         next(error)

@@ -1,1 +1,233 @@
-[]
+[
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "type": "movie",
+        "id": "eff09586-f922-49a4-9ad3-3a5fbbfdd2c9",
+        "createdAt": "2021-12-10T13:29:48.034Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144348/strive-netflix/f1i6g5ihowoozd1cyeab.png"
+    },
+    {
+        "title": "Harry Potter and The Philosopher's Stone",
+        "year": "2001",
+        "type": "movie",
+        "id": "14a5adf7-3da0-442a-ab15-08b87b081bbb",
+        "createdAt": "2021-12-10T13:30:31.985Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144377/strive-netflix/xnrfsvirmwfut1fkoxgh.png",
+        "reviews": [
+            {
+                "comment": "Not nearly as good as the book, but it did make an entire generation read more!",
+                "rate": 4,
+                "movieId": "14a5adf7-3da0-442a-ab15-08b87b081bbb",
+                "reviewId": "93b03a13-1799-499a-b8bf-4923421dfc78",
+                "reviewCreatedAt": "2021-12-10T14:01:38.918Z"
+            },
+            {
+                "comment": "i loved it so much!!!!!!",
+                "rate": 5,
+                "movieId": "14a5adf7-3da0-442a-ab15-08b87b081bbb",
+                "reviewId": "63f77a5a-fcfa-42eb-b416-72b074643135",
+                "reviewCreatedAt": "2021-12-10T14:04:02.323Z"
+            }
+        ]
+    },
+    {
+        "title": "Harry Potter and The Chamber Of Secrets",
+        "year": "2002",
+        "type": "movie",
+        "id": "adbcb761-9371-4897-a7af-0514a43761b6",
+        "createdAt": "2021-12-10T13:30:51.271Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144397/strive-netflix/uhqjtnnwfvskox6p7sxz.png"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "type": "movie",
+        "id": "dd58365d-25a4-4e9f-80ab-1dae5bb61959",
+        "createdAt": "2021-12-10T13:31:40.657Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144423/strive-netflix/ydl0fe5n7817zv4ua2ys.png"
+    },
+    {
+        "title": "Get Out",
+        "year": "2017",
+        "type": "movie",
+        "id": "092c3f5d-83c5-4efb-8858-968da04373ee",
+        "createdAt": "2021-12-10T13:32:16.664Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144451/strive-netflix/nrmnxycanpfymbth67p3.png"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "type": "movie",
+        "id": "9358d2a4-1302-43b8-a718-b48c4d141e6f",
+        "createdAt": "2021-12-10T13:32:35.649Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144476/strive-netflix/l3gzkb1meitlazhuex0w.png"
+    },
+    {
+        "title": "Moonlight",
+        "year": "2016",
+        "type": "movie",
+        "id": "23f0a889-d3cf-490e-a6fa-f4ecba4b1f9e",
+        "createdAt": "2021-12-10T13:32:52.735Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144501/strive-netflix/dss5ogis1cwmhakwxc8n.png"
+    },
+    {
+        "title": "12 Years A Slave",
+        "year": "2013",
+        "type": "movie",
+        "id": "02c3e1b8-a0da-4356-ba2d-0f28fdcd324b",
+        "createdAt": "2021-12-10T13:33:07.855Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144525/strive-netflix/lhejwa4hahvggf0dx8hb.png"
+    },
+    {
+        "title": "12 Angry Men (Director's Cut)",
+        "year": "1957",
+        "type": "movie",
+        "id": "7b1aa4a8-d965-453b-8f24-e05e25a6104a",
+        "createdAt": "2021-12-10T13:33:27.905Z",
+        "updatedAt": "2021-12-10T13:56:25.571Z"
+    },
+    {
+        "title": "The Social Network",
+        "year": "2010",
+        "type": "movie",
+        "id": "892c42a1-32b8-4159-8e0a-fbfe2cf3bfd4",
+        "createdAt": "2021-12-10T13:33:44.454Z"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "type": "movie",
+        "id": "8ff18828-a06f-4c5c-bb48-80e5b24c3262",
+        "createdAt": "2021-12-10T13:33:58.986Z"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "type": "movie",
+        "id": "39aab220-f1bb-44cc-b8d0-73749c293caf",
+        "createdAt": "2021-12-10T13:34:21.944Z"
+    },
+    {
+        "title": "North By Northwest",
+        "year": "1959",
+        "type": "movie",
+        "id": "3a7edceb-1c56-4f7d-b81e-f53830b1d7b7",
+        "createdAt": "2021-12-10T13:34:44.723Z"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "type": "movie",
+        "id": "790cbe3f-0be1-4819-90df-3368facd08a4",
+        "createdAt": "2021-12-10T13:34:58.465Z"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "type": "movie",
+        "id": "aa1b2744-98a0-4adb-8a6f-85bbe5b61c3e",
+        "createdAt": "2021-12-10T13:35:11.313Z"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "type": "movie",
+        "id": "867721b3-afa5-4667-a1ef-0386e8e614f2",
+        "createdAt": "2021-12-10T13:35:48.779Z"
+    },
+    {
+        "title": "The Silence Of The Lambs",
+        "year": "1991",
+        "type": "movie",
+        "id": "98b3e149-9399-4df8-af77-b71f33fc7771",
+        "createdAt": "2021-12-10T13:36:04.349Z"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "type": "movie",
+        "id": "f3cb007a-f0b5-4266-b778-90fd1bd198d9",
+        "createdAt": "2021-12-10T13:36:32.219Z"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "type": "movie",
+        "id": "1333753e-36f8-45a6-9936-fcb1a8145428",
+        "createdAt": "2021-12-10T13:36:46.065Z"
+    },
+    {
+        "title": "Brokeback Mountain",
+        "year": "2005",
+        "type": "movie",
+        "id": "ff78d3de-9c56-4b76-8174-c75e5cbcb2f0",
+        "createdAt": "2021-12-10T13:37:00.908Z"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "type": "movie",
+        "id": "dd0462fe-392f-45f8-8bc3-45e43d12e7ca",
+        "createdAt": "2021-12-10T13:37:13.256Z"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "type": "movie",
+        "id": "9f39c875-e489-42ab-9648-703303d1fcd0",
+        "createdAt": "2021-12-10T13:37:28.555Z",
+        "reviews": [
+            {
+                "comment": "It's crazy how good a movie can still be so many years later!",
+                "rate": 4,
+                "movieId": "9f39c875-e489-42ab-9648-703303d1fcd0",
+                "reviewId": "b1aebb28-7b38-4414-ab59-a4afd88c4058",
+                "reviewCreatedAt": "2021-12-10T14:00:34.276Z"
+            }
+        ]
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "type": "movie",
+        "id": "a23c3616-81a5-4eb6-ab5b-48ca010ecb86",
+        "createdAt": "2021-12-10T13:37:50.148Z"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "type": "movie",
+        "id": "8db715d8-7c04-4ddc-8399-c31937172c0b",
+        "createdAt": "2021-12-10T13:38:16.360Z"
+    },
+    {
+        "title": "Gone With The Wind",
+        "year": "1939",
+        "type": "movie",
+        "id": "9912b20a-f122-4631-8a25-e6f3f859a2f1",
+        "createdAt": "2021-12-10T13:38:33.802Z"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "type": "movie",
+        "id": "82152d4d-df83-4bc7-9853-28f211a1efb5",
+        "createdAt": "2021-12-10T13:38:50.178Z"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "type": "movie",
+        "id": "0020d4fa-d2c7-46ac-95fb-55583e57305b",
+        "createdAt": "2021-12-10T13:39:40.714Z"
+    },
+    {
+        "title": "The Lobster",
+        "year": "2015",
+        "type": "movie",
+        "id": "a100d21d-36ca-463f-8583-93e1391e6e30",
+        "createdAt": "2021-12-10T13:40:08.277Z",
+        "poster": "https://res.cloudinary.com/dpyfjvq8s/image/upload/v1639144305/strive-netflix/nnuv0sfgosmjgwftyf0r.png"
+    }
+]
