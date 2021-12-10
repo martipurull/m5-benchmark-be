@@ -2,6 +2,7 @@ import express from 'express'
 import multer from 'multer'
 import { v2 as cloudinary } from 'cloudinary'
 import { CloudinaryStorage } from 'multer-storage-cloudinary'
+import { getMovies, saveMovies } from '../library/fs-tools.js'
 
 const uploadMoviePosterRouter = express.Router({ mergeParams: true })
 
@@ -22,14 +23,17 @@ const cloudinaryStorage = new CloudinaryStorage({
 
 const parser = multer({ storage: cloudinaryStorage })
 
-
-
-
-
-
-
-
-
+uploadMoviePosterRouter.put('/', parser.single('moviePoster'), async (req, res, next) => {
+    try {
+        const movies = await getMovies()
+        const selectedMovie = movies.find(movie => movie.id === req.params.movieId)
+        selectedMovie.poster = req.file.path
+        await saveMovies(movies)
+        res.send(`Movie poster uploaded successfully and kept at ${ selectedMovie.poster }`)
+    } catch (error) {
+        next(error)
+    }
+})
 
 
 
