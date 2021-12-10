@@ -85,70 +85,80 @@
         "type": "movie",
         "id": "7b1aa4a8-d965-453b-8f24-e05e25a6104a",
         "createdAt": "2021-12-10T13:33:27.905Z",
-        "updatedAt": "2021-12-10T13:56:25.571Z"
+        "updatedAt": "2021-12-10T13:56:25.571Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.de%2Ffredweso%2F12-angry-men%2F&psig=AOvVaw2BJkg9OFq2H4TFyYbyQ16L&ust=1639231520636000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDTvbaz2fQCFQAAAAAdAAAAABAD"
     },
     {
         "title": "The Social Network",
         "year": "2010",
         "type": "movie",
         "id": "892c42a1-32b8-4159-8e0a-fbfe2cf3bfd4",
-        "createdAt": "2021-12-10T13:33:44.454Z"
+        "createdAt": "2021-12-10T13:33:44.454Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.themoviedb.org%2Fmovie%2F37799-the-social-network%2Fimages%2Fposters&psig=AOvVaw1e2DAgiLBwf6wf1WvnF5b0&ust=1639231537370000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDG076z2fQCFQAAAAAdAAAAABAT"
     },
     {
         "title": "Schindler's List",
         "year": "1993",
         "type": "movie",
         "id": "8ff18828-a06f-4c5c-bb48-80e5b24c3262",
-        "createdAt": "2021-12-10T13:33:58.986Z"
+        "createdAt": "2021-12-10T13:33:58.986Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F630504016568878198%2F&psig=AOvVaw2sGmuLJqMOKQrj4gNfQyXG&ust=1639231591674000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCTzdez2fQCFQAAAAAdAAAAABAE"
     },
     {
         "title": "There Will Be Blood",
         "year": "2007",
         "type": "movie",
         "id": "39aab220-f1bb-44cc-b8d0-73749c293caf",
-        "createdAt": "2021-12-10T13:34:21.944Z"
+        "createdAt": "2021-12-10T13:34:21.944Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F261068109632995466%2F&psig=AOvVaw36j2J-bUdRElx8TW2H14K8&ust=1639231615141000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj05-Kz2fQCFQAAAAAdAAAAABAE"
     },
     {
         "title": "North By Northwest",
         "year": "1959",
         "type": "movie",
         "id": "3a7edceb-1c56-4f7d-b81e-f53830b1d7b7",
-        "createdAt": "2021-12-10T13:34:44.723Z"
+        "createdAt": "2021-12-10T13:34:44.723Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fnorth-by-northwest-poster.html&psig=AOvVaw0wRWJKfHRmeJst9a2kfPPC&ust=1639231647162000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDorvKz2fQCFQAAAAAdAAAAABAD"
     },
     {
         "title": "La La Land",
         "year": "2016",
         "type": "movie",
         "id": "790cbe3f-0be1-4819-90df-3368facd08a4",
-        "createdAt": "2021-12-10T13:34:58.465Z"
+        "createdAt": "2021-12-10T13:34:58.465Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.de%2Fpin%2F501588477247349128%2F&psig=AOvVaw3DMew5U2DqtHi9w4y4-q4Y&ust=1639231666425000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjBsvuz2fQCFQAAAAAdAAAAABAE"
     },
     {
         "title": "Inception",
         "year": "2010",
         "type": "movie",
         "id": "aa1b2744-98a0-4adb-8a6f-85bbe5b61c3e",
-        "createdAt": "2021-12-10T13:35:11.313Z"
+        "createdAt": "2021-12-10T13:35:11.313Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F395824254738801592%2F&psig=AOvVaw33sZv7er_8j2ij_13ZfbXC&ust=1639231683639000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC054S02fQCFQAAAAAdAAAAABAD"
     },
     {
         "title": "Se7en",
         "year": "1995",
         "type": "movie",
         "id": "867721b3-afa5-4667-a1ef-0386e8e614f2",
-        "createdAt": "2021-12-10T13:35:48.779Z"
+        "createdAt": "2021-12-10T13:35:48.779Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FFilm%2FSe7en&psig=AOvVaw167l5Hg1lQXGe5rkSUryCH&ust=1639231705193000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICA0I602fQCFQAAAAAdAAAAABAD"
     },
     {
         "title": "The Silence Of The Lambs",
         "year": "1991",
         "type": "movie",
         "id": "98b3e149-9399-4df8-af77-b71f33fc7771",
-        "createdAt": "2021-12-10T13:36:04.349Z"
+        "createdAt": "2021-12-10T13:36:04.349Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0102926%2F&psig=AOvVaw0r83e2FqPnzdiYOqfGhjH4&ust=1639231731238000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiBlJq02fQCFQAAAAAdAAAAABAG"
     },
     {
         "title": "Good Will Hunting",
         "year": "1997",
         "type": "movie",
         "id": "f3cb007a-f0b5-4266-b778-90fd1bd198d9",
-        "createdAt": "2021-12-10T13:36:32.219Z"
+        "createdAt": "2021-12-10T13:36:32.219Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvistapointe.net%2Fgood-will-hunting.html&psig=AOvVaw0eFiUWTNEXX4RLojEKLbXl&ust=1639231759236000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJi-wae02fQCFQAAAAAdAAAAABAE"
     },
     {
         "title": "Pulp Fiction",
@@ -162,14 +172,16 @@
         "year": "2005",
         "type": "movie",
         "id": "ff78d3de-9c56-4b76-8174-c75e5cbcb2f0",
-        "createdAt": "2021-12-10T13:37:00.908Z"
+        "createdAt": "2021-12-10T13:37:00.908Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F699465385867612435%2F&psig=AOvVaw1cq56a936LnKxPi7_OncXJ&ust=1639231782600000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjNz7K02fQCFQAAAAAdAAAAABAF"
     },
     {
         "title": "Casablanca",
         "year": "1942",
         "type": "movie",
         "id": "dd0462fe-392f-45f8-8bc3-45e43d12e7ca",
-        "createdAt": "2021-12-10T13:37:13.256Z"
+        "createdAt": "2021-12-10T13:37:13.256Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcitizens.coffee%2Fcasablancanov%2F1122-600pm-casablanca-2-tickets-indoors-6d64c&psig=AOvVaw3ytlSnRp_lProgGg10h-Nr&ust=1639231796251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiNxbm02fQCFQAAAAAdAAAAABAD"
     },
     {
         "title": "The Third Man",
@@ -177,6 +189,7 @@
         "type": "movie",
         "id": "9f39c875-e489-42ab-9648-703303d1fcd0",
         "createdAt": "2021-12-10T13:37:28.555Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fckl777%2Fart%2FThe-Third-Man-Poster-463248166&psig=AOvVaw1A3yI2l7pbK88D2PueM8jL&ust=1639231825192000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjHxse02fQCFQAAAAAdAAAAABAD",
         "reviews": [
             {
                 "comment": "It's crazy how good a movie can still be so many years later!",
@@ -192,35 +205,40 @@
         "year": "1962",
         "type": "movie",
         "id": "a23c3616-81a5-4eb6-ab5b-48ca010ecb86",
-        "createdAt": "2021-12-10T13:37:50.148Z"
+        "createdAt": "2021-12-10T13:37:50.148Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.de%2FLawrence-Arabia-Plakat-Poster-Inches%2Fdp%2FB004BIDYNM&psig=AOvVaw2L0O6VNXJF_U0kfjOxRNMG&ust=1639231855065000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCWr9W02fQCFQAAAAAdAAAAABAO"
     },
     {
         "title": "2001: A Space Odyssey",
         "year": "1968",
         "type": "movie",
         "id": "8db715d8-7c04-4ddc-8399-c31937172c0b",
-        "createdAt": "2021-12-10T13:38:16.360Z"
+        "createdAt": "2021-12-10T13:38:16.360Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPlexPosters%2Fcomments%2Fk219nk%2F2001_a_space_odyssey_poster%2F&psig=AOvVaw1kFkb0v6hTcZXiaim7kzF_&ust=1639231879276000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiL8uC02fQCFQAAAAAdAAAAABAF"
     },
     {
         "title": "Gone With The Wind",
         "year": "1939",
         "type": "movie",
         "id": "9912b20a-f122-4631-8a25-e6f3f859a2f1",
-        "createdAt": "2021-12-10T13:38:33.802Z"
+        "createdAt": "2021-12-10T13:38:33.802Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.de%2Ffotos%2Fgone-with-the-wind-poster&psig=AOvVaw2Xzl7MqNJPD-AvN6KPTXuH&ust=1639231899761000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE1uq02fQCFQAAAAAdAAAAABAF"
     },
     {
         "title": "The Godfather",
         "year": "1972",
         "type": "movie",
         "id": "82152d4d-df83-4bc7-9853-28f211a1efb5",
-        "createdAt": "2021-12-10T13:38:50.178Z"
+        "createdAt": "2021-12-10T13:38:50.178Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F396176098462875339%2F&psig=AOvVaw1_wIfL9I_kpZ981bySnnlu&ust=1639231919470000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOj88fO02fQCFQAAAAAdAAAAABAE"
     },
     {
         "title": "Spirited Away",
         "year": "2001",
         "type": "movie",
         "id": "0020d4fa-d2c7-46ac-95fb-55583e57305b",
-        "createdAt": "2021-12-10T13:39:40.714Z"
+        "createdAt": "2021-12-10T13:39:40.714Z",
+        "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F783907878891222916%2F&psig=AOvVaw2sBxmo10Kj1yrQVlVVH5FY&ust=1639231937909000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCq2vy02fQCFQAAAAAdAAAAABAF"
     },
     {
         "title": "The Lobster",
